@@ -1,0 +1,19 @@
+{
+  "name": "twitter/bootstrap",
+  "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+  "type": "component",
+  "keywords": [
+    "bootstrap",
+    "css"
+  ],
+  "homepage": "http://twitter.github.com/bootstrap/",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Twitter, Inc"
+    }
+  ],
+  "require": {
+    "robloach/component-installer": "*"
+  }
+}
