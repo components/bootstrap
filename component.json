@@ -8,6 +8,9 @@
     "css"
   ],
   "license": "Apache-2.0",
+  "dependencies": {
+    "components/jquery": "*"
+  },
   "scripts": [
     "js/bootstrap.js"
   ],
