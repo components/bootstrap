@@ -15,5 +15,23 @@
   ],
   "require": {
     "components/jquery": "*"
+  },
+  "extra": {
+    "component": {
+      "scripts": [
+        "js/bootstrap.js"
+      ],
+      "styles": [
+        "css/bootstrap.css",
+        "css/bootstrap-responsive.css"
+      ],
+      "files": [
+        "img/glyphicons-halflings.png",
+        "img/glyphicons-halflings-white.png"
+      ],
+      "shim": {
+        "deps": ["jquery"]
+      }
+    }
   }
 }
