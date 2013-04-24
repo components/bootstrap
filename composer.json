@@ -22,10 +22,12 @@
         "js/bootstrap.js"
       ],
       "files": [
+        "js/bootstrap.min.js",
         "css/bootstrap.css",
         "css/bootstrap-responsive.css",
-        "img/glyphicons-halflings.png",
-        "img/glyphicons-halflings-white.png"
+        "css/bootstrap.min.css",
+        "css/bootstrap-responsive.min.css",
+        "img/*.png"
       ],
       "shim": {
         "deps": ["jquery"]
