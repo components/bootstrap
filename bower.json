@@ -1,6 +1,5 @@
 {
   "name": "components-bootstrap",
-  "repo": "components/bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
   "version": "2.3.1",
   "keywords": [
@@ -11,14 +10,5 @@
   "dependencies": {
     "jquery": "~1.8.0"
   },
-  "scripts": [
-    "js/bootstrap.js"
-  ],
-  "files": [
-    "css/bootstrap.css",
-    "css/bootstrap-responsive.css",
-    "img/glyphicons-halflings.png",
-    "img/glyphicons-halflings-white.png"
-  ],
   "main": "js/bootstrap.js"
 }

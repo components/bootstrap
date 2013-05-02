@@ -9,7 +9,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "jquery": "~1.8.0"
+    "components/jquery": "~1.8.0"
   },
   "scripts": [
     "js/bootstrap.js"
@@ -19,6 +19,5 @@
     "css/bootstrap-responsive.css",
     "img/glyphicons-halflings.png",
     "img/glyphicons-halflings-white.png"
-  ],
-  "main": "js/bootstrap.js"
+  ]
 }
