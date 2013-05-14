@@ -11,6 +11,7 @@
   "dependencies": {
     "components/jquery": "~1.8.0"
   },
+  "main": "js/bootstrap.js",
   "scripts": [
     "js/bootstrap.js"
   ],
