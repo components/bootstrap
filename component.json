@@ -2,7 +2,7 @@
   "name": "components-bootstrap",
   "repo": "components/bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "2.3.2",
+  "version": "3.0.0-rc1",
   "keywords": [
     "bootstrap",
     "css"
@@ -16,9 +16,6 @@
     "js/bootstrap.js"
   ],
   "files": [
-    "css/bootstrap.css",
-    "css/bootstrap-responsive.css",
-    "img/glyphicons-halflings.png",
-    "img/glyphicons-halflings-white.png"
+    "css/bootstrap.css"
   ]
 }
