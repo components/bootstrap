@@ -1,12 +1,12 @@
 Bootstrap
 =========
 
-Shim repository for [Bootstrap](https://github.com/twitter/bootstrap).
+Shim repository for [Bootstrap](http://getbootstrap.com).
 
 This package just provides the basic Bootstrap JavaScript, so you will require a
 theme to go with it. For the default Bootstrap theme, you can use
-[components/bootstrap-default](https://github.com/components/bootstrap-default), or
-the included plain CSS file assets.
+[components/bootstrap-default](https://github.com/components/bootstrap-default),
+or the included plain CSS file assets.
 
 Package Managers
 ----------------
