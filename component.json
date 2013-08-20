@@ -16,6 +16,7 @@
     "js/bootstrap.js"
   ],
   "files": [
-    "css/bootstrap.css"
+    "css/bootstrap.css",
+    "fonts/*"
   ]
 }
