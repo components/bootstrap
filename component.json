@@ -2,7 +2,7 @@
   "name": "components-bootstrap",
   "repo": "components/bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "3.0.0-rc1",
+  "version": "3.0.0",
   "keywords": [
     "bootstrap",
     "css"
