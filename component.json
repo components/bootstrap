@@ -15,8 +15,13 @@
   "scripts": [
     "js/bootstrap.js"
   ],
-  "files": [
-    "css/bootstrap.css",
-    "fonts/*"
+  "fonts": [
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
+  ],
+  "styles": [
+    "css/bootstrap.css"
   ]
 }
