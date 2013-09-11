@@ -24,6 +24,9 @@
       "scripts": [
         "js/bootstrap.js"
       ],
+      "styles": [
+        "css/bootstrap.css"
+      ],
       "files": [
         "js/bootstrap.min.js",
         "css/*.css",
