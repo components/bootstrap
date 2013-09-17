@@ -16,7 +16,7 @@
     "js/bootstrap.js"
   ],
   "styles": [
-    "css/bootstrap.css"
+    "css/bootstrap.min.css"
   ],
   "files": [
     "css/bootstrap.min.css",
