@@ -9,7 +9,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "components/jquery": "~1.9.1"
+    "components/jquery": "2.0.3"
   },
   "main": "js/bootstrap.js",
   "scripts": [
