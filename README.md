@@ -3,10 +3,9 @@ Bootstrap
 
 Shim repository for [Bootstrap](http://getbootstrap.com).
 
-This package just provides the basic Bootstrap JavaScript, so you will require a
-theme to go with it. For the default Bootstrap theme, you can use
-[components/bootstrap-default](https://github.com/components/bootstrap-default),
-or the included plain CSS file assets.
+This package just provides the basic Bootstrap JavaScript in the package. This
+means that although the stylesheets are there, you will be required to provide
+your own means of including the styles.
 
 Package Managers
 ----------------
