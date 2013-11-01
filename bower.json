@@ -10,5 +10,10 @@
   "dependencies": {
     "jquery": "~1.9.1"
   },
-  "main": "js/bootstrap.js"
+  "main": "js/bootstrap.js",
+  "ignore": [
+    "component.json",
+    "package.json",
+    "composer.json"
+  ]
 }
