@@ -2,14 +2,14 @@
   "name": "components-bootstrap",
   "repo": "components/bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "keywords": [
     "bootstrap",
     "css"
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "components/jquery": "2.0.3"
+    "components/jquery": ">=1.9.0"
   },
   "main": "js/bootstrap.js",
   "scripts": [

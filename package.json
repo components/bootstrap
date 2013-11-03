@@ -1,7 +1,7 @@
 {
   "name": "components-bootstrap",
   "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "keywords": [
     "bootstrap",
     "css"
@@ -19,7 +19,7 @@
     }
   ],
   "dependencies": {
-    "jquery": "~1.9.1"
+    "jquery": ">=1.9.0"
   },
   "main": "js/bootstrap.js"
 }
