@@ -28,7 +28,7 @@
         "js/bootstrap.min.js",
         "css/*.css",
         "fonts/*",
-	"less/*"
+        "less/*"
       ],
       "shim": {
         "deps": ["jquery"]
