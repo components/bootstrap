@@ -10,6 +10,7 @@ your own means of including the styles.
 Package Managers
 ----------------
 
+* [npm](http://npmjs.org/package/components-bootstrap): `components-bootstrap`
 * [Bower](http://twitter.github.com/bower/): `components-bootstrap`
 * [Component](https://github.com/component/component): `components/bootstrap`
 * [Composer](http://packagist.org/packages/components/bootstrap): `components/bootstrap`
