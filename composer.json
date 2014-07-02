@@ -28,7 +28,7 @@
         "js/bootstrap.min.js",
         "css/*.css",
         "fonts/*",
-				"less/mixins/*.less",
+        "less/mixins/*.less",
         "less/*.less"
       ],
       "shim": {
