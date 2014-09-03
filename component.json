@@ -18,7 +18,9 @@
   ],
   "files": [
     "css/bootstrap.min.css",
-    "css/bootstrap-theme.min.css"
+    "css/bootstrap-theme.min.css",
+    "css/bootstrap.css.map",
+    "css/bootstrap-theme.css.map"
   ],
   "fonts": [
     "fonts/glyphicons-halflings-regular.eot",
