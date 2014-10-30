@@ -1,16 +1,21 @@
 {
   "name": "components-bootstrap",
   "repo": "components/bootstrap",
-  "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "keywords": [
-    "bootstrap",
-    "css"
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
-    "components/jquery": "*"
+    "components/jquery": ">=1.9.1"
   },
   "main": "js/bootstrap.js",
   "scripts": [

@@ -1,20 +1,30 @@
 {
   "name": "components/bootstrap",
-  "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "type": "component",
   "keywords": [
-    "bootstrap",
-    "css"
+    "css",
+    "less",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
   ],
   "homepage": "http://getbootstrap.com",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "authors": [
     {
-      "name": "Twitter, Inc"
+      "name": "Mark Otto",
+      "email": "markdotto@gmail.com"
+    },
+    {
+      "name": "Jacob Thornton",
+      "email": "jacobthornton@gmail.com"
     }
   ],
   "require": {
-    "components/jquery": ">=1.9"
+    "components/jquery": ">=1.9.1"
   },
   "suggest": {
     "components/bootstrap-default": "Provide a theme for Bootstrap as components/bootstrap only provides the CSS as file assets"
