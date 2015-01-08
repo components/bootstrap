@@ -37,6 +37,7 @@
       "files": [
         "js/*.js",
         "css/*.css",
+        "css/*.map",
         "fonts/*",
         "less/mixins/*.less",
         "less/*.less"
