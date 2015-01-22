@@ -3,7 +3,7 @@
   "repo": "components/bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "keywords": [
     "css",
     "less",
@@ -31,7 +31,8 @@
     "fonts/glyphicons-halflings-regular.eot",
     "fonts/glyphicons-halflings-regular.svg",
     "fonts/glyphicons-halflings-regular.ttf",
-    "fonts/glyphicons-halflings-regular.woff"
+    "fonts/glyphicons-halflings-regular.woff",
+    "fonts/glyphicons-halflings-regular.woff2"
   ],
   "less": [
     "less/mixins/alerts.less",
