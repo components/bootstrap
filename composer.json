@@ -5,7 +5,6 @@
   "keywords": [
     "css",
     "less",
-    "sass",
     "mobile-first",
     "responsive",
     "front-end",
@@ -41,10 +40,7 @@
         "css/*.map",
         "fonts/*",
         "less/mixins/*.less",
-        "less/*.less",
-        "sass/*.scss",
-        "sass/bootstrap/*.scss",
-        "sass/bootstrap/mixins/*.scss"
+        "less/*.less"
       ],
       "shim": {
         "deps": ["jquery"]
