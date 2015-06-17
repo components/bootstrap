@@ -3,7 +3,7 @@
   "repo": "components/bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.3.4",
+  "version": "3.3.5",
   "keywords": [
     "css",
     "less",
@@ -56,6 +56,7 @@
     "less/mixins/panels.less",
     "less/mixins/progress-bar.less",
     "less/mixins/reset-filter.less",
+    "less/mixins/reset-text.less",
     "less/mixins/resize.less",
     "less/mixins/responsive-visibility.less",
     "less/mixins/size.less",
