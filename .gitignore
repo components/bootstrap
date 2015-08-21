@@ -1,6 +1,7 @@
 build
 vendor
 components
+bower_components
 jam
 node_modules
 composer.lock
