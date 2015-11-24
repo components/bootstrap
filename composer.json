@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "components/jquery": ">=1.9.1 <3.0"
+    "components/jquery": "1.9.1 - 2"
   },
   "suggest": {
     "components/bootstrap-default": "Provide a theme for Bootstrap as components/bootstrap only provides the CSS as file assets"

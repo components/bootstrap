@@ -2,7 +2,7 @@
   "name": "components-bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "keywords": [
     "css",
     "less",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "jquery": ">=1.9.1"
+    "jquery": "1.9.1 - 2"
   },
   "main": "js/bootstrap.js",
   "ignore": [

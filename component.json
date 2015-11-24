@@ -3,7 +3,7 @@
   "repo": "components/bootstrap",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "homepage": "http://getbootstrap.com",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "keywords": [
     "css",
     "less",
@@ -15,17 +15,21 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "components/jquery": ">=1.9.1"
+    "components/jquery": "1.9.1 - 2"
   },
   "main": "js/bootstrap.js",
   "scripts": [
     "js/bootstrap.js"
   ],
   "files": [
-    "css/bootstrap.min.css",
-    "css/bootstrap-theme.min.css",
+    "css/bootstrap.css",
     "css/bootstrap.css.map",
-    "css/bootstrap-theme.css.map"
+    "css/bootstrap-theme.css",
+    "css/bootstrap-theme.css.map",
+    "css/bootstrap.min.css",
+    "css/bootstrap.min.css.map"
+    "css/bootstrap-theme.min.css",
+    "css/bootstrap-theme.min.css.map"
   ],
   "fonts": [
     "fonts/glyphicons-halflings-regular.eot",
