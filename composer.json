@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "components/jquery": "<3.0"
+    "components/jquery": ">=2"
   },
   "extra": {
     "component": {
