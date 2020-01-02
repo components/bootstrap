@@ -1,12 +1,12 @@
 Bootstrap
 =========
 
-Shim repository for [Bootstrap](http://getbootstrap.com).
+Shim repository for [Bootstrap](https://getbootstrap.com).
 
 This package just provides the basic Bootstrap JavaScript in the package. This
 means that although the stylesheets are there, you will be required to provide
 your own means of including the styles. If you aim to use the default Bootstrap
-styles, then you could use the [components/bootstrap-default](http://github.com/components/bootstrap-default)
+styles, then you could use the [components/bootstrap-default](https://github.com/components/bootstrap-default)
 package for that.
 
 Package Managers
