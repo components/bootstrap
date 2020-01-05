@@ -33,6 +33,7 @@
       ],
       "files": [
         "js/*.js",
+        "js/*.map",
         "css/*.css",
         "css/*.map"
       ],
