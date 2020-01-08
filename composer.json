@@ -11,7 +11,7 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "https://getbootstrap.com",
   "license": "MIT",
   "authors": [
     {
@@ -33,6 +33,7 @@
       ],
       "files": [
         "js/*.js",
+        "js/*.map",
         "css/*.css",
         "css/*.map"
       ],
