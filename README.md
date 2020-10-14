@@ -1,5 +1,4 @@
-Bootstrap
-=========
+# Bootstrap
 
 Shim repository for [Bootstrap](https://getbootstrap.com).
 
@@ -9,8 +8,7 @@ your own means of including the styles. If you aim to use the default Bootstrap
 styles, then you could use the [components/bootstrap-default](https://github.com/components/bootstrap-default)
 package for that.
 
-Package Managers
-----------------
+## Package Managers
 
 * [npm](http://npmjs.org/package/components-bootstrap): `components-bootstrap`
 * [Bower](http://bower.io): `components-bootstrap`
